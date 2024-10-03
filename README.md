@@ -11,7 +11,7 @@ The Fetch Rewards Coding Exercise is an Android app designed to fetch JSON data 
 ## Installation
 1. Clone the repository:
     
-    git clone https://github.com/isabear-yu/fetch-rewards-app.git
+    git clone https://github.com/isabear-yu/Fetch-Rewards-Coding-Exercise.git
     
 2. Open the project in Android Studio.
 3. Build the project to download dependencies and set up the environment.
