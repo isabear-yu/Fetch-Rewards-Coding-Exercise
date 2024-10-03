@@ -24,3 +24,9 @@ The Fetch Rewards Coding Exercise is an Android app designed to fetch JSON data 
 - MainActivity.java: The main entry point of the application. Handles fetching, parsing, and displaying data.
 - SectionListAdapter.java: Custom adapter for displaying items and headers in a ListView.
 - Item.java: Model class representing an item with an ID, list ID, and item number.
+
+## Screenshots
+![demo1](https://drive.google.com/file/d/1_qnYRF6Z8nGCN5hLtJa_eJt6bblV5li3/view?usp=drive_link)
+![demo2](https://drive.google.com/file/d/1zp4IFfhjzd3JfdxQxicQooPJAQvpzyWG/view?usp=drive_link)
+
+
