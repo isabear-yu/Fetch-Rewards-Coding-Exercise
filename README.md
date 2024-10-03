@@ -26,7 +26,6 @@ The Fetch Rewards Coding Exercise is an Android app designed to fetch JSON data 
 - Item.java: Model class representing an item with an ID, list ID, and item number.
 
 ## Screenshots
-![demo1](https://drive.google.com/file/d/1_qnYRF6Z8nGCN5hLtJa_eJt6bblV5li3/view?usp=drive_link)
-![demo2](https://drive.google.com/file/d/1zp4IFfhjzd3JfdxQxicQooPJAQvpzyWG/view?usp=drive_link)
-
+![demo1](./image/demo1.png)
+![demo2](./image/demo2.png)
 
