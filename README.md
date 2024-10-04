@@ -26,8 +26,7 @@
 - Item.java: Model class representing an item with an ID, list ID, and item number.
 
 ## Screenshots
-&NewLine;
 <img src="./image/demo1.png" width="50%" />
-&NewLine;
+ <br /> 
 <img src="./image/demo2.png" width="50%" />
 
