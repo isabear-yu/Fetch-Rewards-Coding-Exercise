@@ -1,7 +1,7 @@
 # Fetch-Rewards-Coding-Exercise
 
 ## Overview
-The Fetch Rewards Coding Exercise is an Android app designed to fetch JSON data from a specified URL, parse the data, and display it in a ListView. The app is built using Java and follows best practices for Android development.
+"The Fetch Rewards Coding Exercise is an Android app that fetches JSON data from a specified URL (https://fetch-hiring.s3.amazonaws.com/hiring.json), parses it, groups it by 'listId', and displays it in a ListView.
 
 ## Features
 - Fetches JSON data from a remote server
@@ -26,6 +26,10 @@ The Fetch Rewards Coding Exercise is an Android app designed to fetch JSON data 
 - Item.java: Model class representing an item with an ID, list ID, and item number.
 
 ## Screenshots
+
+Demo1
 <img src="./image/demo1.png" width="50%" />
+
+Demo2
 <img src="./image/demo2.png" width="50%" />
 
